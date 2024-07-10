@@ -15,7 +15,9 @@
 - 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **mohnish101998@gmail.com**
-
+  
+ - 😎 About me **I am currently pursuing web development with 1.7+ years of experience, focusing on both backend and frontend development. Despite not having a background in this field or a degree, I started this journey as my interest and it quickly became my passion.**
+   
 - ⚡ Fun fact **I love traveling to explore new places and enjoy being surrounded by nature**
 
 <h3 align="left">Connect with me:</h3>
