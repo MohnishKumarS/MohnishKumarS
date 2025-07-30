@@ -1,12 +1,12 @@
 ![54e37d8074ebcde1d96c77d7b2a7f310](https://github.com/MohnishKumarS/Tasks-Js/assets/113748184/cdab8e31-7231-4588-b3e2-2472f3fd4e6c)
 <h1 align="center">Hi 👋, I'm Mohnish Kumar</h1>
-<h3 align="center">A committed PHP Developer with a passion for full-stack development</h3>
+<h3 align="center">A committed PHP|Laravel Developer with a passion for full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohnishkumars&label=Profile%20views&color=0e75b6&style=flat" alt="mohnishkumars" /> </p>
 
-- 🔭 I’m currently working on [Ewallhost](https://www.ewallhost.com/)
+- 🔭 I’m currently working on [Betamonks Technology](https://betamonks.com/)
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **React, Next js**
 
 - 👯 I’m looking to collaborate on [Shirt-inc | Online Shopping for Men & Women Clothing](https://shirt-inc.com/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mohnish101998@gmail.com**
   
- - 😎 About me **I am currently pursuing web development with 1.7+ years of experience, focusing on both backend and frontend development. Despite not having a background in this field or a degree, I started this journey as my interest and it quickly became my passion.**
+ - 😎 About me **I am currently pursuing web development with 2.5+ years of experience, focusing on both backend and frontend development. Despite not having a background in this field or a degree, I started this journey as my interest and it quickly became my passion.**
    
 - ⚡ Fun fact **I love traveling to explore new places and enjoy being surrounded by nature**
 
